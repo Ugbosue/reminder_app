@@ -1,0 +1,6 @@
+flask
+gunicorn
+apscheduler
+openai
+twilio
+python-dotenv
